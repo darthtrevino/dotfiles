@@ -1,0 +1,8 @@
+{
+  // TODO: merge into settings.json
+  "profiles": {
+    "defaults": {
+      "fontFace": "Cascadia Mono PL"
+    }
+  }
+}
