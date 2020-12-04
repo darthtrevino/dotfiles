@@ -11,6 +11,6 @@ mkdir ~/ws
 
 # Set up 
 source ~/.zshrc
-nvm install 14
-nvm use 14
+nvm install 14.15.1
+nvm use 14.15.1
 npm i -g yarn
