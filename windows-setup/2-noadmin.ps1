@@ -28,15 +28,5 @@ winget install Microsoft.AzureStorageExplorer
 winget install Microsoft.AzureCLI
 winget install Ubuntu
 
-nvm install 14
-nvm use 14
-npm i -g yarn
-
-git config --global user.name "Chris Trevino"
-git config --global user.email "chtrevin@microsoft.com"
-git config --global core.editor "code --wait"
-
-Install-Module Posh-Git -Scope CurrentUser
-Install-Module Oh-My-Posh -Scope CurrentUser
-
-mkdir c:\ws
+nvm install 14.15.1
+nvm use 14.15.1
