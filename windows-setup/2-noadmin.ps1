@@ -26,9 +26,7 @@ winget install Microsoft.PowerShell
 winget install Microsoft.WindowsTerminal
 winget install Microsoft.AzureStorageExplorer
 winget install Microsoft.AzureCLI
-winget install Microsoft.EdgeDev
 winget install Ubuntu
-winget install Microsoft.EdgeDev
 
 nvm install 14
 nvm use 14
