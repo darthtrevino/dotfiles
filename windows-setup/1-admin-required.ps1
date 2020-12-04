@@ -8,7 +8,4 @@ cinst -y azure-functions-core-tools-3
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
-mkdir c:\ws
-ssh-keygen
-
 Restart-Computer
