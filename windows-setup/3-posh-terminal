@@ -1,0 +1,8 @@
+npm i -g yarn
+
+git config --global user.name "Chris Trevino"
+git config --global user.email "chtrevin@microsoft.com"
+git config --global core.editor "code --wait"
+
+Install-Module Posh-Git -Scope CurrentUser
+Install-Module Oh-My-Posh -Scope CurrentUser
