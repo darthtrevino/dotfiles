@@ -24,7 +24,8 @@ winget install ScreenToGif
 winget install Microsoft.Teams
 winget install Microsoft.PowerShell
 winget install Microsoft.WindowsTerminal
-winget install Microsoft.AzureStorageExplorer
+winget install Microsoft.AzureStorageExplorere
+winget install Microsoft.AzureDataStudio
 winget install Microsoft.AzureCLI
 winget install Ubuntu
 
