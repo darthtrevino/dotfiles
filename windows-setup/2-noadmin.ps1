@@ -20,14 +20,15 @@ winget install discord
 winget install signal
 winget install Ubuntu
 winget install docker
+winget install minikube
 winget install ScreenToGif
+winget install ssms
 winget install Microsoft.Teams
 winget install Microsoft.PowerShell
 winget install Microsoft.WindowsTerminal
 winget install Microsoft.AzureStorageExplorere
 winget install Microsoft.AzureDataStudio
 winget install Microsoft.AzureCLI
-winget install Ubuntu
 
 nvm install 14.15.1
 nvm use 14.15.1
