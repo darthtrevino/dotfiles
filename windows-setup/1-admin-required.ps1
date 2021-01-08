@@ -7,5 +7,7 @@ cinst -y azure-functions-core-tools-3
 
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+dism.exe /online /enable-feature /featurename:Microsoft-Hyper-V-All /all /norestart
+dism.exe /online /enable-feature /featurename:Microsoft-Hyper-V-Tools-All /all /norestart
 
 Restart-Computer
